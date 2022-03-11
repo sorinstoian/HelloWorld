@@ -1,1 +1,3 @@
 this is a configuration file.
+configuration 1
+configuration 2
